@@ -15,21 +15,4 @@ Este proyecto es un generador de contraseñas seguras desarrollado con HTML, CSS
 - CSS
 - JavaScript
 
-## Uso
-
-1. Abre la aplicación en tu navegador web. >>> https://passwordsgenerates.netlify.app/
-2. Selecciona las opciones de generación de contraseña según tus preferencias.
-3. Haz clic en el botón "Generar" para obtener una contraseña segura.
-4. Copia y utiliza la contraseña generada según tus necesidades.
-
-## Contribución
-
-¡Contribuciones son bienvenidas! Si deseas colaborar con este proyecto, puedes realizar un fork del repositorio, hacer tus modificaciones y enviar un pull request.
-
-
-## Contacto
-
-Si tienes alguna pregunta o sugerencia sobre este Generador de Contraseñas Seguras, no dudes en contactarme. Puedes encontrarme en ecro98.98@gmail.com o visitar mi perfil de GitHub en https://github.com/gitbatmanhub.
-
-¡Gracias por tu interés en este proyecto!
 
